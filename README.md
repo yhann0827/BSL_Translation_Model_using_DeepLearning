@@ -1,5 +1,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12966865)
 # Real-Time British Sign Language Recognition System
+***#TensorFlow #OpenCV #MediaPipe #Python #LSTM #GRU #SimpleRNN**
+</br></br>
 This project aims to develop a British Sign Language (BSL) recognition model that can accurately translate sign language into text in real-time, thereby facilitating the accessibility and communication for individuals who use sign language as their primary means of communication. 
 
 ## Overview
