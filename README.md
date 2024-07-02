@@ -6,6 +6,8 @@ This project aims to develop a British Sign Language (BSL) recognition model tha
 
 ## Overview
 The British Sign Language Recognition System employs three recurrent neural networks (RNNs) to recognize British Sign Language (BSL) gestures in real-time. TensorFlow and Keras libraries are utilized for training and prediction. Users can select the model for testing by uncommenting it in the code cell and perform comparisons. Our results indicate that the GRU model outperforms the SimpleRNN and LSTM models in terms of accuracy and effectiveness for sign language recognition.
+## System Architecture
+![image](https://github.com/yhann0827/BSL_Translation_Model_using_DeepLearning/assets/111119306/fa164079-aeb9-4f41-943c-3ead7fd73c8b)
 
 ## Accessing the Code
 This repository is private, so you won't be able to clone it directly. However, you can download the code as a ZIP file by following these steps:
